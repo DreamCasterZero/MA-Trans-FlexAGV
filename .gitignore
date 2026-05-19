@@ -1,0 +1,13 @@
+# Python缓存
+__pycache__/
+*.pyc
+
+# 模型权重
+*.pt
+
+# VSCode配置
+.vscode/
+
+参考/
+
+MA-TRANS-SYX-main/
